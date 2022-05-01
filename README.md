@@ -1,6 +1,6 @@
 # Elden Ring Rune Farming
 
-#### Inspirded by r/EldinRing: [A Non-Toxic Way to AFK Farm](https://old.reddit.com/r/Eldenring/comments/u8ynx1/a_nontoxic_way_to_afk_farm/) 🔥
+#### Inspired by r/EldinRing: [A Non-Toxic Way to AFK Farm](https://old.reddit.com/r/Eldenring/comments/u8ynx1/a_nontoxic_way_to_afk_farm/) 🔥
 
 ### Requirements
 
