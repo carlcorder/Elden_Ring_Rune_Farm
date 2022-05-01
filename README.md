@@ -18,7 +18,7 @@ Just travel to the above Site of Grace, then without moving or adjusting your ca
 
 ### Farm Rate
 
-The [Wave of Gold](https://eldenring.wiki.fextralife.com/Wave+of+Gold) typically wipes out 8-12 [Albinaurics](https://eldenring.wiki.fextralife.com/Albinauric) 🐸 for 2452 Runes apiece (or 2942 Runes if you have the [Golden Scarab](https://eldenring.wiki.fextralife.com/Golden+Scarab) 🐛 equipped).
+The [Wave of Gold](https://eldenring.wiki.fextralife.com/Wave+of+Gold) weapon skill typically wipes out 8-12 [Albinaurics](https://eldenring.wiki.fextralife.com/Albinauric) 🐸 for 2452 Runes apiece (or 2942 Runes if you have the [Golden Scarab](https://eldenring.wiki.fextralife.com/Golden+Scarab) 🐛 equipped).
 
 It takes about 25 seconds per cycle for ~30K Runes, so the farm rate ⛏️/⏱️ works out to:
 * `72.0K Runes / Minute`
