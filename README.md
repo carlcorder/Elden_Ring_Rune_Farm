@@ -12,7 +12,7 @@ In-Game:
 
 Technical:
 * [TinyTask](https://thetinytask.com) - I'm using `v1.77` 🤖
-* This action script: [Elden_Ring_Rune_Farm.rec](https://github.com/carlcorder/Elden_Ring_Rune_Farm/raw/main/Elden_Ring_Rune_Farm.rec) 📜
+* [Elden_Ring_Rune_Farm.rec](https://github.com/carlcorder/Elden_Ring_Rune_Farm/raw/main/Elden_Ring_Rune_Farm.rec) action script 📜
 
 ### How-To
 
